@@ -1,0 +1,10 @@
+uvicorn
+gunicorn
+fastapi
+pydantic
+scikit-learn
+pandas
+pillow
+torch
+transformers
+python-multipart
